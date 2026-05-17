@@ -1,0 +1,35 @@
+general:
+  no-clan: "<red>You are not in a clan."
+  reload-success: "<green>Configuration reloaded successfully."
+
+homes:
+  no-homes: "<red>Your clan has no homes."
+  no-default-home: "<red>Your clan does not have a default home."
+
+  not-found: "<red>The home <yellow>{home}</yellow> does not exist."
+  already-exists: "<red>A home named <yellow>{home}</yellow> already exists."
+
+  limit-reached: "<red>Your clan has reached the home limit (<yellow>{limit}</yellow>)."
+
+  created: "<green>Clan home <yellow>{home}</yellow> has been created."
+  deleted: "<yellow>Clan home <yellow>{home}</yellow> has been deleted."
+  renamed: "<green>Renamed home <yellow>{old}</yellow> <green>to <yellow>{new}</yellow>."
+
+  auto-default-set: "<gray>This home has automatically been set as your default home."
+
+default-home:
+  set: "<green>Default clan home set to <yellow>{home}</yellow><green>."
+  removed: "<yellow>The default clan home has been removed."
+
+teleport:
+  starting-default: "<gray>Teleporting to your default clan home..."
+  starting-home: "<gray>Teleporting to clan home <yellow>{home}</yellow><gray>..."
+
+  countdown: "<gray>Teleporting in <yellow>{seconds}</yellow> seconds..."
+  cancelled: "<red>Teleport cancelled."
+
+  success-default: "<green>You have been teleported to your default clan home."
+  success-home: "<green>You have been teleported to clan home <yellow>{home}</yellow><green>."
+
+list:
+  homes: "<gold>Clan Homes: <green>{homes}"

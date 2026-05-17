@@ -1,0 +1,4 @@
+settings:
+  teleport-countdown: 5 # Seconds to wait before teleporting
+  limit: 3 # Maximum number of homes a clan can have
+  auto-default: true # Automatically sets the first created home as default
