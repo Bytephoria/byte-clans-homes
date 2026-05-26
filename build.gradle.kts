@@ -17,9 +17,10 @@ dependencies {
     compileOnly("com.github.Bytephoria.byte-clans:bukkit-api:1.12.1")
 
     compileOnly("org.spongepowered:configurate-yaml:4.2.0")
-    compileOnly("com.github.bytephoria.data-container:api:v1.0.0")
-    compileOnly("com.github.bytephoria.data-container:binary:v1.0.0")
-    compileOnly("com.github.bytephoria.data-container:serializers:v1.0.0")
+    compileOnly("com.github.bytephoria.data-container:api:v1.2.0")
+    compileOnly("com.github.bytephoria.data-container:binary:v1.2.0")
+    compileOnly("com.github.bytephoria.data-container:serializers:v1.2.0")
+    compileOnly("com.github.bytephoria.data-container:bukkit-serializers:v1.2.0")
 
     compileOnly("org.incendo:cloud-paper:2.0.0-beta.10")
     compileOnly("org.incendo:cloud-annotations:2.0.0")
